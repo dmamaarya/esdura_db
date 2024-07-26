@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dmamaarya/esdura_db/issues"
   },
-  "homepage": "https://github.com/dmamaarya/esdura_db#readme"
+  "homepage": "https://github.com/dmamaarya/esdura_db#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
